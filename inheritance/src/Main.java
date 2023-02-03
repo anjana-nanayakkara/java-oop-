@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         // create a student object
 
-        Student std = new Student(25,70);
+        Student std = new Student(25,80);
         std.eat();
         System.out.println(std.age);
 
