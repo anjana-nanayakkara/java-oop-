@@ -1,5 +1,5 @@
 public class Human {
     void eat(){
-        System.out.println("Human is eating");
+        System.out.p rintln("Human is eating");
     }
 }
